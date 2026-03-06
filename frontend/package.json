@@ -13,6 +13,7 @@
     "@vladmandic/face-api": "^1.7.15",
     "framer-motion": "^12.26.1",
     "lucide-react": "^0.562.0",
+    "matter-js": "^0.20.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },

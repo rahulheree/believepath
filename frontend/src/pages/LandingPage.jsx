@@ -9,6 +9,7 @@ import Pricing from '../components/Pricing';
 import CTA from '../components/CTA';
 import Footer from '../components/Footer';
 import MoodTracker from '../components/MoodTracker';
+import TherapeuticGames from '../components/TherapeuticGames';
 
 const LandingPage = () => {
     return (
@@ -17,6 +18,7 @@ const LandingPage = () => {
             <main>
                 <Hero />
                 <ProblemSolution />
+                <TherapeuticGames />
                 <MoodTracker />
                 <Features />
                 <MarketStats />
